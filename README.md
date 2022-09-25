@@ -18,7 +18,7 @@
 - 🎱  I like Chess and Anime  
   
 
-- 📬 How to reach me: You can find me at [LinkedIn/PintuPrajapati]<a href="google.com" text="fsddf" target="_blank"> fsdfsd </a> or mail me [Gmail] 
+- 📬 How to reach me: You can find me at [LinkedIn/PintuPrajapati]<a href="google.com" target="_blank"> fsdfsd </a> or mail me [Gmail] 
 - 
   
 
