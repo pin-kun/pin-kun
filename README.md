@@ -1,12 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">I'm Pintu, a full-time Python (Django) developer 👨‍💻</div>  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
 
 - 🌱 I’m currently learning Unit Testing  
@@ -19,6 +16,9 @@
   
 
 - 🎱  I like Chess and Anime  
+  
+
+- 📬 How to reach me: You can find me at [LinkedIn/PintuPrajapati](https://in.linkedin.com/in/pintuprajapati) or mail me [Gmail](mailto:pintu@logicrays@gmail.com)  
   
 
 <br/>  
