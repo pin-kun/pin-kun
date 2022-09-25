@@ -15,7 +15,7 @@
 - ⚡ Interest: Blockchain and Crypto Currencies (NFT, DeFi, Staking, Web 3.0)  
   
 
-- 🎱  I like Chess and Anime  
+- 😍 I like Chess and Anime
   
 
 - 📬 How to reach me: You can find me at [LinkedIn/PintuPrajapati](https://in.linkedin.com/in/pintuprajapati) fsdfsd </a> or mail me [Gmail] 
