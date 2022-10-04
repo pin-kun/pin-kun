@@ -19,7 +19,6 @@
   
 
 - 📬 How to reach me: You can find me at [LinkedIn/PintuPrajapati](https://in.linkedin.com/in/pintuprajapati) fsdfsd </a> or mail me [Gmail] 
-- 
   
 
 <br/>  
