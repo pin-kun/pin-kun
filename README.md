@@ -1,7 +1,5 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+Hi There 👋
+
 
 ### <div align="center">I'm Pintu, a full-time Python (Django) developer 👨‍💻</div>  
   
@@ -16,9 +14,6 @@
   
 
 - 😍 I like Chess and Anime
-  
-
-- 📬 How to reach me: You can find me at [LinkedIn/PintuPrajapati](https://in.linkedin.com/in/pintuprajapati) fsdfsd </a> or mail me [Gmail] 
   
 
 <br/>  
@@ -111,37 +106,8 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pin-kun&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pin-kun&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-<!--
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
--->
+</div>
